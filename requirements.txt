@@ -1,0 +1,12 @@
+openai
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+tqdm
+flask
+python-dotenv
+joblib
+tiktoken
+kagglehub
